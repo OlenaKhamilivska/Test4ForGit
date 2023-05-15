@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
+    //comment Created Olena2 Branch
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
