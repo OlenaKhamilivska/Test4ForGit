@@ -17,6 +17,10 @@ public class MainActivity extends AppCompatActivity {
     private static void saveTest() {
         Log.d("4TAG", "saveTest: jhgf");
     }
+
+    private static void saveT1est() {
+        Log.d("4TAG", "saveTest: jhg1f");
+    }
 }//commenr created Olena4 branch
 
 //new comment for Olena 3 branch
