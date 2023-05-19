@@ -7,7 +7,7 @@ import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
     //comment Created Olena2 Branch
-
+//commenr created Olena4 branch
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -17,4 +17,12 @@ public class MainActivity extends AppCompatActivity {
     private static void saveTest() {
         Log.d("4TAG", "saveTest: jhgf");
     }
-}
+    private static void saveTest1() {
+        Log.d("4TAG", "saveTest: jhgf1");
+    }
+    private static void saveTest0() {
+        Log.d("4TAG", "saveTest: jhgf1");
+    }
+}//commenr created Olena4 branch
+
+//new comment for Olena 3 branch
